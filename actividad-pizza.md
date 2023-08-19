@@ -1,3 +1,4 @@
+Kevin Irias
 Tiempo de cocción:
 Primero, precalentar el horno a 220 grados durante unos 10-15 minutos.
 Segundo, coloca la pizza en la bandeja en el centro del horno.
@@ -7,3 +8,12 @@ Quinto, sacar la pizza con cuidado del horno.
 Sexto, mover la pizza a una tabla de cortar.
 Séptimo, opcional, se puede espolvorear un poco de orégano la pizza.
 Octavo, servir la pizza caliente en platos individuales.
+
+Jose-Rivas-encargado-del-delivery
+Lo que se necesita para realizar el delivery:
+
+- Tener motocicleta lista para viajar
+- Medidas de seguridad para viajar en la motocicleta
+- Tener la pizza lista para la entrega
+- Llamar al cliente para confirmar la ubicacion
+- Entregar la pizza y la factura de la compra
