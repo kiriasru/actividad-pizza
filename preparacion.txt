@@ -1,4 +1,9 @@
-abrir la masa
+abrir la masa al tamaño segun pedido
 regar y esparcir la salsa 
-añadir ingredientes
+añadir ingredientes segun pedido
+cantar que va al horno
 pasar al horno
+sacar del horno
+cortar segun tamaño
+empacar 
+dejar en rack
