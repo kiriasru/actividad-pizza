@@ -1,3 +1,9 @@
+Esteban Vanegas
+abrir la masa
+regar y esparcir la salsa 
+añadir ingredientes
+pasar al horno
+
 Kevin Irias
 Tiempo de cocción:
 Primero, precalentar el horno a 220 grados durante unos 10-15 minutos.
