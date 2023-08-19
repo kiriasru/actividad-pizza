@@ -8,3 +8,4 @@ Sexto, mover la pizza a una tabla de cortar.
 Séptimo, opcional, se puede espolvorear un poco de orégano la pizza.
 Octavo, servir la pizza caliente en platos individuales.
 Noveno, oewnfonwoifnqiewfq
+Decimo, nrweiuvnuirenviuneruivnuiernvui
